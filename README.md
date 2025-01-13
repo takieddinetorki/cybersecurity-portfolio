@@ -11,7 +11,8 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a dedicated and passionate C/C++ Software Engineer with a strong foundation in Computer Science. My focus areas include Computing Infrastructure, Embedded Systems, and IoT. I specialize in developing high-performance, scalable software solutions while ensuring efficient use of system resources. With expertise in optimizing code performance, implementing secure protocols, and ensuring software quality, I aim to create impactful solutions in the tech world.
+I'm a dedicated and passionate cybersecurity professional with a strong foundation in Computer Science. My expertise lies in protecting digital infrastructures, securing embedded systems, and ensuring robust IoT implementations. I specialize in developing secure, high-performance solutions while emphasizing risk mitigation, data integrity, and system resilience. With skills in vulnerability assessment, secure coding practices, and implementing encryption protocols, I am committed to creating impactful and secure solutions that address the evolving challenges in the cybersecurity landscape.
+
 </p>
 
 <p align="center">
